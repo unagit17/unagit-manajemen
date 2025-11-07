@@ -1,2 +1,2 @@
 # unagit-manajemen
-Repository untuk manajemen file code
+Repository untuk manajemen history perubahan code
